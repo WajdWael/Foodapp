@@ -734,3 +734,35 @@ header i.fa-bars {
     font-size: 11px;
   }
 }
+
+@media (max-width: 481px) {
+  .header-text h2 {
+    margin: 80px 4px 0px;
+  }
+  .header-text p {
+    font-size: 14px;
+  }
+  .container-boxs .box1 h5 {
+    padding-right: 0;
+  }
+  .container-boxs .box1 p {
+    padding-right: 0;
+  }
+  .text-sc-5 p {
+    margin: 0 30px 0;
+  }
+  .first-section,
+  .mune-part,
+  .sc-4,
+  .sc-6,
+  .sc-7,
+  .sc-8 {
+    min-width: 400px;
+  }
+  .container-boxs {
+    grid-template-columns: repeat(auto-fill, minmax(347px, 1fr));
+  }
+  .container {
+    min-width: 400px;
+  }
+}
