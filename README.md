@@ -2,7 +2,7 @@
 
 ### In this project you will find a Food app.
 
-[Demo](https://wajd789.github.io/Foodapp/)
+[Demo](https://wajdwael.github.io/Foodapp/)
 
 ### I hope you enjoy it.
 
