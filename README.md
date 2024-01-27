@@ -17,6 +17,8 @@ Please Give us a star ⭐!
 ---
 
 ## Why to use ```Normalize.css```? 💭
+![image](https://github.com/WajdWael/Foodapp/assets/81550668/71c92a90-9f51-49c0-8fb7-f23cbe0331f9)
+
 It is **a small CSS file** that makes browsers render HTML elements **more consistently** and in line with modern standards, Also preserves default styles for HTML elements, sets base styles for common elements, corrects browser bugs, and improves accessibility by setting font size, line height, and styling form controls. 
 
 ---
